@@ -1,39 +1,27 @@
+<!-- =============== TOP BANNER =============== -->
 <p align="center">
-  <!-- Banner Image -->
   <img src="https://raw.githubusercontent.com/StackedSharan/StackedSharan/main/Gemini_Generated_Image_tcm9tvtcm9tvtcm9.png" width="100%" />
 </p>
 
-<br>
+<!-- =============== TOP-RIGHT AVATAR =============== -->
+<div style="position: relative; width: 100%;">
 
-<p align="center">
+<!-- Avatar positioned at top-right -->
+<div style="position: absolute; top: -80px; right: 20px;">
+  <img 
+    src="https://raw.githubusercontent.com/StackedSharan/StackedSharan/main/Gemini_Generated_Image_wji1tywji1tywji1.png" 
+    width="110" 
+    height="110" 
+    style="border-radius: 50%; border: 3px solid #4fc3f7;"
+  />
+</div>
 
-<!-- Animated Avatar Glow -->
-<svg width="180" height="180">
-  <defs>
-    <radialGradient id="grad">
-      <stop offset="0%" stop-color="#00eaff" />
-      <stop offset="100%" stop-color="#0077ff" />
-    </radialGradient>
-  </defs>
+</div>
 
-  <circle cx="90" cy="90" r="70" fill="url(#grad)">
-    <animate attributeName="r" values="65;75;65" dur="4s" repeatCount="indefinite"/>
-  </circle>
-
-  <clipPath id="circleView">
-    <circle cx="90" cy="90" r="65"/>
-  </clipPath>
-
-  <!-- Avatar -->
-  <image href="https://raw.githubusercontent.com/StackedSharan/StackedSharan/main/Gemini_Generated_Image_wji1tywji1tywji1.png" x="25" y="25" width="130" height="130" clip-path="url(#circleView)" />
-</svg>
-
-</p>
-
-<br>
+<br><br>
 
 # <p align="center">🚀 Hey! I'm <strong>Sharan Patil</strong></p>
-### <p align="center">Full-Stack Web Dev • Tech Explorer • Python </p>
+### <p align="center">Full-Stack Web Dev • IoT • Cloud Learner</p>
 
 ---
 
@@ -53,24 +41,19 @@
 
 ---
 
-# 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=StackedSharan&show_icons=true&theme=dark" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=StackedSharan&theme=dark" height="160" />
-</p>
-
----
-
 # 🚀 About Me  
-- Passionate about web development  
-- Love modern UI + animations  
-- Exploring tech
-- Building new projects  
+- Passionate about web dev  
+- Love clean UI + micro animations  
+- Working with IoT, Arduino, and cloud tools  
+- Always building & learning  
 
 ---
 
-# ⭐ Socials  
-<p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram"></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
-</p>
+<!-- =============== BOTTOM-RIGHT SMALL STICKER =============== -->
+<div style="position: relative; width: 100%; height: 0;">
+  <img 
+    src="https://raw.githubusercontent.com/StackedSharan/StackedSharan/main/Gemini_Generated_Image_tcm9tvtcm9tvtcm9.png" 
+    width="80"
+    style="position: absolute; bottom: -20px; right: 10px; opacity: 0.85;"
+  />
+</div>
