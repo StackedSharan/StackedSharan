@@ -1,27 +1,26 @@
-<!-- =============== TOP BANNER =============== -->
+<!-- ===== TOP BANNER (reduced size) ===== -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/StackedSharan/StackedSharan/main/Gemini_Generated_Image_tcm9tvtcm9tvtcm9.png" width="100%" />
+  <img src="https://raw.githubusercontent.com/StackedSharan/StackedSharan/main/Gemini_Generated_Image_tcm9tvtcm9tvtcm9.png" width="70%" />
 </p>
 
-<!-- =============== TOP-RIGHT AVATAR =============== -->
-<div style="position: relative; width: 100%;">
+<!-- ===== NAME + AVATAR SECTION (GitHub-safe layout) ===== -->
 
-<!-- Avatar positioned at top-right -->
-<div style="position: absolute; top: -80px; right: 20px;">
-  <img 
-    src="https://raw.githubusercontent.com/StackedSharan/StackedSharan/main/Gemini_Generated_Image_wji1tywji1tywji1.png" 
-    width="110" 
-    height="110" 
-    style="border-radius: 50%; border: 3px solid #4fc3f7;"
-  />
-</div>
+<table align="right">
+  <tr>
+    <td>
+      <img 
+        src="https://raw.githubusercontent.com/StackedSharan/StackedSharan/main/Gemini_Generated_Image_wji1tywji1tywji1.png" 
+        width="110" 
+        style="border-radius: 50%;"
+      />
+    </td>
+  </tr>
+</table>
 
-</div>
+# 🚀 **Sharan Patil**
+### Full-Stack Web Dev • Tech Explorer • Learner
 
 <br><br>
-
-# <p align="center">🚀 Hey! I'm <strong>Sharan Patil</strong></p>
-### <p align="center">Full-Stack Web Dev • IoT • Cloud Learner</p>
 
 ---
 
@@ -41,19 +40,20 @@
 
 ---
 
-# 🚀 About Me  
-- Passionate about web dev  
-- Love clean UI + micro animations  
-- Working with IoT, Arduino, and cloud tools  
+# 🚀 About Me
+- Passionate about web development  
+- Love clean UI + animations  
+- Working with DSA  
 - Always building & learning  
 
 ---
 
-<!-- =============== BOTTOM-RIGHT SMALL STICKER =============== -->
-<div style="position: relative; width: 100%; height: 0;">
+<!-- ===== SMALL BOTTOM RIGHT STICKER (GitHub-safe method) ===== -->
+
+<p align="right">
   <img 
     src="https://raw.githubusercontent.com/StackedSharan/StackedSharan/main/Gemini_Generated_Image_tcm9tvtcm9tvtcm9.png" 
-    width="80"
-    style="position: absolute; bottom: -20px; right: 10px; opacity: 0.85;"
+    width="70" 
+    style="opacity: 0.8;"
   />
-</div>
+</p>
