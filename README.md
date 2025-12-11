@@ -1,21 +1,20 @@
-<!-- ===== MAIN PROFILE LAYOUT (left = intro, right = circular avatar) ===== -->
-
 <table>
   <tr>
-    <!-- LEFT column -->
+
+    <!-- LEFT SIDE CONTENT -->
     <td valign="top" width="65%">
 
 ### 👋 Hey — I'm **Sharan Patil**
 
 > “Always prefer Dark mode: cuz light attracts bugsss” 🤦‍♂️
 
-I'm a **tech enthusiast** who loves exploring and building cool things across  
-**Web Development, Python programming, and Data Structures & Algorithms**.
+I'm a **tech enthusiast** exploring  
+**Web Development, Python, and Data Structures & Algorithms**.
 
 I enjoy:
 - crafting clean & responsive user interfaces  
-- Smooth web experiences !!  
-- experimenting with new tools and cloud technologies  
+- smooth web experiences  
+- experimenting with IoT & cloud tools  
 - continuously leveling up with modern development practices  
 
 I believe in writing code that is simple, expressive, and scalable —  
@@ -55,25 +54,38 @@ and in learning something new every single day. 🚀
 
     </td>
 
-    <!-- RIGHT column = Circular Avatar (GitHub-safe) -->
+    <!-- RIGHT SIDE AVATAR -->
     <td valign="top" width="35%" align="right">
 
-<!-- Use fixed width & height + object-fit to force a perfect circle -->
-<img
-  src="https://raw.githubusercontent.com/StackedSharan/StackedSharan/main/Gemini_Generated_Image_wji1tywji1tywji1.png"
-  alt="Sharan Patil"
-  width="160"
-  height="160"
-  style="border-radius:50%; object-fit:cover; border: 4px solid rgba(79,195,247,0.18); box-shadow: 0 12px 28px rgba(0,0,0,0.45); display:block;"
-/>
+<!-- PERFECT CIRCLE AVATAR USING SVG MASK -->
+<svg width="160" height="160" viewBox="0 0 160 160">
+  <defs>
+    <clipPath id="circleClip">
+      <circle cx="80" cy="80" r="65" />
+    </clipPath>
+  </defs>
+
+  <!-- Avatar clipped into a circle -->
+  <image 
+    href="https://raw.githubusercontent.com/StackedSharan/StackedSharan/main/Gemini_Generated_Image_wji1tywji1tywji1.png"
+    width="160" 
+    height="160"
+    clip-path="url(#circleClip)"
+    preserveAspectRatio="xMidYMid slice"
+  />
+
+  <!-- Circular border -->
+  <circle cx="80" cy="80" r="70" fill="none" stroke="#4fc3f7" stroke-width="4" stroke-opacity="0.3" />
+</svg>
 
     </td>
+
   </tr>
 </table>
 
 ---
 
-<!-- ========== SMALL BOTTOM-RIGHT STICKER ========== -->
+<!-- SMALL BOTTOM-RIGHT STICKER -->
 <p align="right">
   <img 
     src="https://raw.githubusercontent.com/StackedSharan/StackedSharan/main/Gemini_Generated_Image_tcm9tvtcm9tvtcm9.png"
