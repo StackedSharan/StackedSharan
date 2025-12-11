@@ -1,4 +1,4 @@
-<!-- ===== MAIN PROFILE LAYOUT (left = intro, right = avatar) ===== -->
+<!-- ===== MAIN PROFILE LAYOUT (left = intro, right = circular avatar) ===== -->
 
 <table>
   <tr>
@@ -55,13 +55,16 @@ and in learning something new every single day. 🚀
 
     </td>
 
-    <!-- RIGHT column = Avatar -->
+    <!-- RIGHT column = Circular Avatar (GitHub-safe) -->
     <td valign="top" width="35%" align="right">
 
+<!-- Use fixed width & height + object-fit to force a perfect circle -->
 <img
   src="https://raw.githubusercontent.com/StackedSharan/StackedSharan/main/Gemini_Generated_Image_wji1tywji1tywji1.png"
+  alt="Sharan Patil"
   width="160"
-  style="border-radius:16px; border: 4px solid rgba(79,195,247,0.18); box-shadow: 0 8px 20px rgba(0,0,0,0.35);" 
+  height="160"
+  style="border-radius:50%; object-fit:cover; border: 4px solid rgba(79,195,247,0.18); box-shadow: 0 12px 28px rgba(0,0,0,0.45); display:block;"
 />
 
     </td>
