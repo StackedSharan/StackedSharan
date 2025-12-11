@@ -55,10 +55,10 @@ and in learning something new every single day. 🚀
 
     <td valign="top" width="35%" align="right">
 
-<svg width="160" height="160" viewBox="0 0 160 160">
+<svg width="160" height="160" viewBox="0 0 160 160" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="avatar">
   <defs>
     <clipPath id="circleClip">
-      <circle cx="80" cy="80" r="70"/>
+      <circle cx="80" cy="80" r="70" />
     </clipPath>
   </defs>
 
@@ -70,7 +70,7 @@ and in learning something new every single day. 🚀
     preserveAspectRatio="xMidYMid slice"
   />
 
-  <circle cx="80" cy="80" r="74" fill="none" stroke="#4fc3f7" stroke-width="4" stroke-opacity="0.3" />
+  <circle cx="80" cy="80" r="70" fill="none" stroke="#4fc3f7" stroke-width="4" stroke-opacity="0.3" />
 </svg>
 
     </td>
