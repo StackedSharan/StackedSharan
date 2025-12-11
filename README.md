@@ -55,7 +55,7 @@ and in learning something new every single day. 🚀
 
     <td valign="top" width="35%" align="right">
 
-<svg width="160" height="160" viewBox="0 0 160 160" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="avatar">
+<svg width="160" height="160" viewBox="0 0 160 160" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <clipPath id="circleClip">
       <circle cx="80" cy="80" r="70" />
