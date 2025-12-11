@@ -60,10 +60,5 @@ and in learning something new every single day. 🚀
 ---
 
 <!-- Sticker bottom right -->
-<p align="right">
-  <img 
-    src="https://raw.githubusercontent.com/StackedSharan/StackedSharan/main/Gemini_Generated_Image_tcm9tvtcm9tvtcm9.png"
-    width="60"
-    style="opacity:0.85;"
-  />
+
 </p>
