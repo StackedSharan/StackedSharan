@@ -1,7 +1,6 @@
-<table>
-  <tr>
+<div style="display: flex; align-items: center; justify-content: space-between;">
 
-    <td valign="top" width="65%">
+<div>
 
 ### 👋 Hey — I'm **Sharan Patil**
 
@@ -13,11 +12,22 @@ I'm a **tech enthusiast** exploring
 I enjoy:
 - crafting clean & responsive user interfaces  
 - smooth web experiences  
-- experimenting with IoT & cloud tools  
+- python dev  
 - continuously leveling up with modern development practices  
 
 I believe in writing code that is simple, expressive, and scalable —  
 and in learning something new every single day. 🚀
+
+</div>
+
+<!-- AVATAR ON RIGHT -->
+<img 
+  src="https://raw.githubusercontent.com/StackedSharan/StackedSharan/main/Gemini_Generated_Image_wji1tywji1tywji1.png"
+  width="150"
+  style="border-radius: 50%; margin-left: 20px; box-shadow: 0 4px 12px rgba(0,0,0,0.4);"
+/>
+
+</div>
 
 ---
 
@@ -51,35 +61,9 @@ and in learning something new every single day. 🚀
   </a>
 </p>
 
-    </td>
-
-    <td valign="top" width="35%" align="right">
-
-<svg width="160" height="160" viewBox="0 0 160 160" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <clipPath id="circleClip">
-      <circle cx="80" cy="80" r="70" />
-    </clipPath>
-  </defs>
-
-  <image 
-    href="https://raw.githubusercontent.com/StackedSharan/StackedSharan/main/Gemini_Generated_Image_wji1tywji1tywji1.png"
-    width="160" 
-    height="160"
-    clip-path="url(#circleClip)"
-    preserveAspectRatio="xMidYMid slice"
-  />
-
-  <circle cx="80" cy="80" r="70" fill="none" stroke="#4fc3f7" stroke-width="4" stroke-opacity="0.3" />
-</svg>
-
-    </td>
-
-  </tr>
-</table>
-
 ---
 
+<!-- Sticker bottom right -->
 <p align="right">
   <img 
     src="https://raw.githubusercontent.com/StackedSharan/StackedSharan/main/Gemini_Generated_Image_tcm9tvtcm9tvtcm9.png"
