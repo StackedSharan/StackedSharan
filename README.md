@@ -1,7 +1,6 @@
 <table>
   <tr>
 
-    <!-- LEFT SIDE CONTENT -->
     <td valign="top" width="65%">
 
 ### 👋 Hey — I'm **Sharan Patil**
@@ -54,18 +53,15 @@ and in learning something new every single day. 🚀
 
     </td>
 
-    <!-- RIGHT SIDE AVATAR -->
     <td valign="top" width="35%" align="right">
 
-<!-- PERFECT CIRCLE AVATAR USING SVG MASK -->
-<svg width="160" height="160" viewBox="0 0 160 160">
+<svg width="160" height="160" viewBox="0 0 160 160" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="avatar">
   <defs>
     <clipPath id="circleClip">
       <circle cx="80" cy="80" r="65" />
     </clipPath>
   </defs>
 
-  <!-- Avatar clipped into a circle -->
   <image 
     href="https://raw.githubusercontent.com/StackedSharan/StackedSharan/main/Gemini_Generated_Image_wji1tywji1tywji1.png"
     width="160" 
@@ -74,7 +70,6 @@ and in learning something new every single day. 🚀
     preserveAspectRatio="xMidYMid slice"
   />
 
-  <!-- Circular border -->
   <circle cx="80" cy="80" r="70" fill="none" stroke="#4fc3f7" stroke-width="4" stroke-opacity="0.3" />
 </svg>
 
@@ -85,7 +80,6 @@ and in learning something new every single day. 🚀
 
 ---
 
-<!-- SMALL BOTTOM-RIGHT STICKER -->
 <p align="right">
   <img 
     src="https://raw.githubusercontent.com/StackedSharan/StackedSharan/main/Gemini_Generated_Image_tcm9tvtcm9tvtcm9.png"
