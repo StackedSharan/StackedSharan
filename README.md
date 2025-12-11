@@ -21,11 +21,7 @@ and in learning something new every single day. 🚀
 </div>
 
 <!-- AVATAR ON RIGHT -->
-<img 
-  src="https://raw.githubusercontent.com/StackedSharan/StackedSharan/main/Gemini_Generated_Image_wji1tywji1tywji1.png"
-  width="150"
-  style="border-radius: 50%; margin-left: 20px; box-shadow: 0 4px 12px rgba(0,0,0,0.4);"
-/>
+
 
 </div>
 
